@@ -1,0 +1,15 @@
+.cabecalho{
+    background-color: #a8c8ea;
+
+}
+
+.dados{
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 3px;
+    background-color: aquamarine;    
+}
+
+.total{
+    background-color: darkkhaki;
+}
